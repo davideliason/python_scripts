@@ -1,0 +1,2 @@
+May 21 10:00:03 computer.name CRON[29400]: USR (good_user)
+June 10 09:10:22 computer.name jam_tag=psim[29187]: (UID:006)
